@@ -1,5 +1,5 @@
 
-# Task from Imants Lizinskis
+# "Rick and Morty" from Imants
 
 
 Docker-composer run:
@@ -14,12 +14,12 @@ docker-compose exec app bash
 ```
 
 
-Composer install
+Composer install:
 ```sh
 composer install
 ```
 
 Access to the application:
-[http://localhost:8989](http://localhost:8989)
-[http://localhost:8989/api/characters](http://localhost:8989/api/characters)
-[http://localhost:8989/api/characters/1](http://localhost:8989/api/characters/3)
+- [http://localhost:8989](http://localhost:8989)
+- [http://localhost:8989/api/characters](http://localhost:8989/api/characters)
+- [http://localhost:8989/api/characters/1](http://localhost:8989/api/characters/3)
